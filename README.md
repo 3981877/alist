@@ -1,7 +1,7 @@
 # alist
 在玩客云上部署小雅alist
 
-一、获取token等三个链接
+## 一、获取token等三个链接
 
 1、mytoken.txt的token获取链接（二选一）
 
@@ -19,11 +19,17 @@ https://alist.nn.ci/zh/guide/drivers/aliyundrive_open.html
 
 先转存这个
 
-https://www.aliyundrive.com/s/rP9gP3h9asE 到自己网盘（选择资源盘），然后浏览器打开转存后的目录，浏览器的url 
+到自己网盘（选择资源盘），然后浏览器打开转存后的目录，浏览器的url
 
-https://www.aliyundrive.com/drive/file/resource/640xxxxxxxxxxxxxxxxxxxca8a 最后一串就是，记得这个目录不要删，里面的内容可以定期删除
+https://www.aliyundrive.com/s/rP9gP3h9asE 
 
-新版小雅alist安装脚本
+最后一串就是，记得这个目录不要删，里面的内容可以定期删除
+
+https://www.aliyundrive.com/drive/file/resource/640xxxxxxxxxxxxxxxxxxxca8a 
+
+
+
+## 新版小雅alist安装脚本
 
 用SSH工具登陆到你要安装小雅alist的主机终端，复制下面两行代码之中的一个，到命令行粘贴执行即可，必须提前部署好docker运行环境。
 
