@@ -80,7 +80,7 @@ EOF
 
 三、小雅alist配置tvbox的地址
 
-在TVBOX 的配置地址填入 http://192.168.2.1:5678/tvbox/my.json
+在TVBOX 的配置地址填入 http://192.168.3.3:5678/tvbox/my.json
 ```
 http://192.168.3.3:5678/tvbox/my.json
 ```
