@@ -82,7 +82,7 @@ EOF
 
 在TVBOX 的配置地址填入 http://192.168.2.1:5678/tvbox/my.json
 ```
-http://192.168.8.8:5678/tvbox/my.json
+http://192.168.3.3:5678/tvbox/my.json
 ```
  
 注：将IP换成你自己的，且须提前在小雅配置目录中配置好docker_address.txt文件，里面内容就是你的小雅alist的访问IP加5678，不要带斜杠。
